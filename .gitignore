@@ -16,3 +16,6 @@ wp-content/*
 !wp-content/mu-plugins/
 !wp-content/plugins/
 !wp-content/themes/
+
+wp-content/plugins/akismet/
+wp-content/plugins/jetpack/
