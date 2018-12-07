@@ -33,10 +33,12 @@ Please test all new code on the staging site before pushing to production.
 
 __Staging:__
 The staging website URL is: https://wpsouthafrica.mystagingwebsite.com/
+
 All code pushed to [the `staging` branch](https://github.com/wpsouthafrica/wpsouthafrica.org/tree/staging) will be automatically deployed to the staging site.
 
 __Production:__
 The production website URL is: https://wpsouthafrica.org/
+
 All code pushed to [the `production` branch](https://github.com/wpsouthafrica/wpsouthafrica.org/tree/production) will be automatically deployed to the production site.
 
 # Additional Resources
