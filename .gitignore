@@ -4,6 +4,7 @@
 .*
 !.gitignore
 !readme.md
+!contributing.md
 ~*
 ehthumbs.db
 Thumbs.db
