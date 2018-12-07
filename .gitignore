@@ -19,3 +19,5 @@ wp-content/*
 
 wp-content/plugins/akismet/
 wp-content/plugins/jetpack/
+
+wp-content/themes/twenty*/
