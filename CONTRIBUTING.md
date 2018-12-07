@@ -27,19 +27,19 @@ At this point, you are waiting for your pull request to be merged - feel free to
 
 ## Publishing Changes
 
-_Once repository admins have the ability to publish changes to the website._
+_Only repository admins have the ability to publish changes to the website._
 
 Please test all new code on the staging site before pushing to production.
 
 __Staging:__
-The staging website URL is: https://wpsouthafrica.mystagingwebsite.com/
 
-All code pushed to [the `staging` branch](https://github.com/wpsouthafrica/wpsouthafrica.org/tree/staging) will be automatically deployed to the staging site.
+* The staging website URL is: https://wpsouthafrica.mystagingwebsite.com/
+* All code pushed to [the `staging` branch](https://github.com/wpsouthafrica/wpsouthafrica.org/tree/staging) will be automatically deployed to the staging site.
 
 __Production:__
-The production website URL is: https://wpsouthafrica.org/
 
-All code pushed to [the `production` branch](https://github.com/wpsouthafrica/wpsouthafrica.org/tree/production) will be automatically deployed to the production site.
+* The production website URL is: https://wpsouthafrica.org/
+* All code pushed to [the `production` branch](https://github.com/wpsouthafrica/wpsouthafrica.org/tree/production) will be automatically deployed to the production site.
 
 # Additional Resources
 
