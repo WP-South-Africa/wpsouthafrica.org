@@ -23,7 +23,7 @@ GitHub is for *bug reports and contributions only* - if you have a WordPress sup
 * When committing, reference your issue (#1234) and include a note about the fix.
 * Push the changes to your fork and submit a pull request on the *master* branch of this repository.
 
-At this point, you are waiting for your pull request to be merged - feel free to ask about it in the #asktheadmins channel in the WPSA Slack group.
+At this point, you are waiting for your pull request to be merged - feel free to ask about it in the [#asktheadmins](https://wpsa.slack.com/messages/asktheadmins) channel in the [WPSA Slack](https://wpsa.slack.com/) group .
 
 ## Publishing Changes
 
