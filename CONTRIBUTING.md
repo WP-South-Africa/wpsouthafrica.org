@@ -34,5 +34,5 @@ _Only repository admins have the ability to publish changes to the website._
 
 # Additional Resources
 
-* [General GitHub documentation](http://help.github.com/)
-* [GitHub pull request documentation](http://help.github.com/send-pull-requests/)
+* [General GitHub documentation](https://docs.github.com/)
+* [GitHub pull request documentation](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests)
